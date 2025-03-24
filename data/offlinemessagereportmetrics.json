@@ -1,0 +1,914 @@
+[
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "The Offline Message report metrics includes the following metrics: the Number of Offline Messages from Chatbot, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "The Offline Message report metrics includes the following metrics: the Number of Offline Messages from Chatbot, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "The Offline Message report metrics includes the following metrics: the Number of Offline Messages from Chatbot, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "Metrics in the Offline Message report consist of: the Number of Offline Messages received from Chat Queue, the Number of Offline Messages from Chatbot, the Number of Offline Messages and the Number of Offline Messages from Offline Button.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "Metrics in the Offline Message report consist of: the Number of Offline Messages received from Chat Queue, the Number of Offline Messages from Chatbot, the Number of Offline Messages and the Number of Offline Messages from Offline Button.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "Metrics in the Offline Message report consist of: the Number of Offline Messages received from Chat Queue, the Number of Offline Messages from Chatbot, the Number of Offline Messages and the Number of Offline Messages from Offline Button.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "The metrics covered in the Offline Message report are: the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, the Number of Offline Messages from Chatbot and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "The metrics covered in the Offline Message report are: the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, the Number of Offline Messages from Chatbot and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "The metrics covered in the Offline Message report are: the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, the Number of Offline Messages from Chatbot and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Does Offline Message report have the Number of Offline Messages from Chatbot metric?",
+        "output": "Yes, the Offline Message report includes the Number of Offline Messages from Chatbot metric. The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Does Offline Message report have the Number of Offline Messages from Voicebot metric?",
+        "output": "No,  The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "The Offline Message report metrics includes the following metrics: the Number of Offline Messages from Chatbot, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "The Offline Message report metrics includes the following metrics: the Number of Offline Messages from Chatbot, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "The Offline Message report metrics includes the following metrics: the Number of Offline Messages from Chatbot, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "Metrics in the Offline Message report consist of: the Number of Offline Messages received from Chat Queue, the Number of Offline Messages from Chatbot, the Number of Offline Messages and the Number of Offline Messages from Offline Button.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "Metrics in the Offline Message report consist of: the Number of Offline Messages received from Chat Queue, the Number of Offline Messages from Chatbot, the Number of Offline Messages and the Number of Offline Messages from Offline Button.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "Metrics in the Offline Message report consist of: the Number of Offline Messages received from Chat Queue, the Number of Offline Messages from Chatbot, the Number of Offline Messages and the Number of Offline Messages from Offline Button.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "The metrics covered in the Offline Message report are: the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, the Number of Offline Messages from Chatbot and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "The metrics covered in the Offline Message report are: the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, the Number of Offline Messages from Chatbot and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "The metrics covered in the Offline Message report are: the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, the Number of Offline Messages from Chatbot and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Does Offline Message report have the Number of Offline Messages from Chatbot metric?",
+        "output": "Yes, the Offline Message report includes the Number of Offline Messages from Chatbot metric. The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Does Offline Message report have the Number of Offline Messages from Voicebot metric?",
+        "output": "No,  The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "The Offline Message report metrics includes the following metrics: the Number of Offline Messages from Chatbot, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "The Offline Message report metrics includes the following metrics: the Number of Offline Messages from Chatbot, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "The Offline Message report metrics includes the following metrics: the Number of Offline Messages from Chatbot, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "Metrics in the Offline Message report consist of: the Number of Offline Messages received from Chat Queue, the Number of Offline Messages from Chatbot, the Number of Offline Messages and the Number of Offline Messages from Offline Button.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "Metrics in the Offline Message report consist of: the Number of Offline Messages received from Chat Queue, the Number of Offline Messages from Chatbot, the Number of Offline Messages and the Number of Offline Messages from Offline Button.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "Metrics in the Offline Message report consist of: the Number of Offline Messages received from Chat Queue, the Number of Offline Messages from Chatbot, the Number of Offline Messages and the Number of Offline Messages from Offline Button.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "The metrics covered in the Offline Message report are: the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, the Number of Offline Messages from Chatbot and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "The metrics covered in the Offline Message report are: the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, the Number of Offline Messages from Chatbot and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "The metrics covered in the Offline Message report are: the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, the Number of Offline Messages from Chatbot and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Does Offline Message report have the Number of Offline Messages from Chatbot metric?",
+        "output": "Yes, the Offline Message report includes the Number of Offline Messages from Chatbot metric. The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Does Offline Message report have the Number of Offline Messages from Voicebot metric?",
+        "output": "No,  The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "The Offline Message report metrics includes the following metrics: the Number of Offline Messages from Chatbot, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "The Offline Message report metrics includes the following metrics: the Number of Offline Messages from Chatbot, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "The Offline Message report metrics includes the following metrics: the Number of Offline Messages from Chatbot, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "Metrics in the Offline Message report consist of: the Number of Offline Messages received from Chat Queue, the Number of Offline Messages from Chatbot, the Number of Offline Messages and the Number of Offline Messages from Offline Button.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "Metrics in the Offline Message report consist of: the Number of Offline Messages received from Chat Queue, the Number of Offline Messages from Chatbot, the Number of Offline Messages and the Number of Offline Messages from Offline Button.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "Metrics in the Offline Message report consist of: the Number of Offline Messages received from Chat Queue, the Number of Offline Messages from Chatbot, the Number of Offline Messages and the Number of Offline Messages from Offline Button.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "The metrics covered in the Offline Message report are: the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, the Number of Offline Messages from Chatbot and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "The metrics covered in the Offline Message report are: the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, the Number of Offline Messages from Chatbot and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "The metrics covered in the Offline Message report are: the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, the Number of Offline Messages from Chatbot and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Does Offline Message report have the Number of Offline Messages from Chatbot metric?",
+        "output": "Yes, the Offline Message report includes the Number of Offline Messages from Chatbot metric. The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Does Offline Message report have the Number of Offline Messages from Voicebot metric?",
+        "output": "No,  The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "The Offline Message report metrics includes the following metrics: the Number of Offline Messages from Chatbot, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "The Offline Message report metrics includes the following metrics: the Number of Offline Messages from Chatbot, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "The Offline Message report metrics includes the following metrics: the Number of Offline Messages from Chatbot, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "Metrics in the Offline Message report consist of: the Number of Offline Messages received from Chat Queue, the Number of Offline Messages from Chatbot, the Number of Offline Messages and the Number of Offline Messages from Offline Button.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "Metrics in the Offline Message report consist of: the Number of Offline Messages received from Chat Queue, the Number of Offline Messages from Chatbot, the Number of Offline Messages and the Number of Offline Messages from Offline Button.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "Metrics in the Offline Message report consist of: the Number of Offline Messages received from Chat Queue, the Number of Offline Messages from Chatbot, the Number of Offline Messages and the Number of Offline Messages from Offline Button.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "The metrics covered in the Offline Message report are: the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, the Number of Offline Messages from Chatbot and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "The metrics covered in the Offline Message report are: the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, the Number of Offline Messages from Chatbot and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "The metrics covered in the Offline Message report are: the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, the Number of Offline Messages from Chatbot and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Does Offline Message report have the Number of Offline Messages from Chatbot metric?",
+        "output": "Yes, the Offline Message report includes the Number of Offline Messages from Chatbot metric. The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Does Offline Message report have the Number of Offline Messages from Voicebot metric?",
+        "output": "No,  The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "The Offline Message report metrics includes the following metrics: the Number of Offline Messages from Chatbot, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "The Offline Message report metrics includes the following metrics: the Number of Offline Messages from Chatbot, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "The Offline Message report metrics includes the following metrics: the Number of Offline Messages from Chatbot, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "Metrics in the Offline Message report consist of: the Number of Offline Messages received from Chat Queue, the Number of Offline Messages from Chatbot, the Number of Offline Messages and the Number of Offline Messages from Offline Button.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "Metrics in the Offline Message report consist of: the Number of Offline Messages received from Chat Queue, the Number of Offline Messages from Chatbot, the Number of Offline Messages and the Number of Offline Messages from Offline Button.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "Metrics in the Offline Message report consist of: the Number of Offline Messages received from Chat Queue, the Number of Offline Messages from Chatbot, the Number of Offline Messages and the Number of Offline Messages from Offline Button.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "The metrics covered in the Offline Message report are: the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, the Number of Offline Messages from Chatbot and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "The metrics covered in the Offline Message report are: the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, the Number of Offline Messages from Chatbot and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "The metrics covered in the Offline Message report are: the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, the Number of Offline Messages from Chatbot and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Does Offline Message report have the Number of Offline Messages from Chatbot metric?",
+        "output": "Yes, the Offline Message report includes the Number of Offline Messages from Chatbot metric. The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Does Offline Message report have the Number of Offline Messages from Voicebot metric?",
+        "output": "No,  The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "The Offline Message report metrics includes the following metrics: the Number of Offline Messages from Chatbot, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "The Offline Message report metrics includes the following metrics: the Number of Offline Messages from Chatbot, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "The Offline Message report metrics includes the following metrics: the Number of Offline Messages from Chatbot, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "Metrics in the Offline Message report consist of: the Number of Offline Messages received from Chat Queue, the Number of Offline Messages from Chatbot, the Number of Offline Messages and the Number of Offline Messages from Offline Button.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "Metrics in the Offline Message report consist of: the Number of Offline Messages received from Chat Queue, the Number of Offline Messages from Chatbot, the Number of Offline Messages and the Number of Offline Messages from Offline Button.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "Metrics in the Offline Message report consist of: the Number of Offline Messages received from Chat Queue, the Number of Offline Messages from Chatbot, the Number of Offline Messages and the Number of Offline Messages from Offline Button.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "The metrics covered in the Offline Message report are: the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, the Number of Offline Messages from Chatbot and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "The metrics covered in the Offline Message report are: the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, the Number of Offline Messages from Chatbot and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "The metrics covered in the Offline Message report are: the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, the Number of Offline Messages from Chatbot and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Does Offline Message report have the Number of Offline Messages from Chatbot metric?",
+        "output": "Yes, the Offline Message report includes the Number of Offline Messages from Chatbot metric. The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Does Offline Message report have the Number of Offline Messages from Voicebot metric?",
+        "output": "No,  The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "The Offline Message report metrics includes the following metrics: the Number of Offline Messages from Chatbot, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "The Offline Message report metrics includes the following metrics: the Number of Offline Messages from Chatbot, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "The Offline Message report metrics includes the following metrics: the Number of Offline Messages from Chatbot, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "Metrics in the Offline Message report consist of: the Number of Offline Messages received from Chat Queue, the Number of Offline Messages from Chatbot, the Number of Offline Messages and the Number of Offline Messages from Offline Button.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "Metrics in the Offline Message report consist of: the Number of Offline Messages received from Chat Queue, the Number of Offline Messages from Chatbot, the Number of Offline Messages and the Number of Offline Messages from Offline Button.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "Metrics in the Offline Message report consist of: the Number of Offline Messages received from Chat Queue, the Number of Offline Messages from Chatbot, the Number of Offline Messages and the Number of Offline Messages from Offline Button.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "The metrics covered in the Offline Message report are: the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, the Number of Offline Messages from Chatbot and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "The metrics covered in the Offline Message report are: the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, the Number of Offline Messages from Chatbot and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "The metrics covered in the Offline Message report are: the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, the Number of Offline Messages from Chatbot and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Does Offline Message report have the Number of Offline Messages from Chatbot metric?",
+        "output": "Yes, the Offline Message report includes the Number of Offline Messages from Chatbot metric. The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Does Offline Message report have the Number of Offline Messages from Voicebot metric?",
+        "output": "No,  The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "The Offline Message report metrics includes the following metrics: the Number of Offline Messages from Chatbot, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "The Offline Message report metrics includes the following metrics: the Number of Offline Messages from Chatbot, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "The Offline Message report metrics includes the following metrics: the Number of Offline Messages from Chatbot, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "Metrics in the Offline Message report consist of: the Number of Offline Messages received from Chat Queue, the Number of Offline Messages from Chatbot, the Number of Offline Messages and the Number of Offline Messages from Offline Button.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "Metrics in the Offline Message report consist of: the Number of Offline Messages received from Chat Queue, the Number of Offline Messages from Chatbot, the Number of Offline Messages and the Number of Offline Messages from Offline Button.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "Metrics in the Offline Message report consist of: the Number of Offline Messages received from Chat Queue, the Number of Offline Messages from Chatbot, the Number of Offline Messages and the Number of Offline Messages from Offline Button.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "The metrics covered in the Offline Message report are: the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, the Number of Offline Messages from Chatbot and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "The metrics covered in the Offline Message report are: the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, the Number of Offline Messages from Chatbot and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "The metrics covered in the Offline Message report are: the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, the Number of Offline Messages from Chatbot and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Does Offline Message report have the Number of Offline Messages from Chatbot metric?",
+        "output": "Yes, the Offline Message report includes the Number of Offline Messages from Chatbot metric. The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Does Offline Message report have the Number of Offline Messages from Voicebot metric?",
+        "output": "No, The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "The Offline Message report metrics includes the following metrics: the Number of Offline Messages from Chatbot, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "The Offline Message report metrics includes the following metrics: the Number of Offline Messages from Chatbot, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "The Offline Message report metrics includes the following metrics: the Number of Offline Messages from Chatbot, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "Metrics in the Offline Message report consist of: the Number of Offline Messages received from Chat Queue, the Number of Offline Messages from Chatbot, the Number of Offline Messages and the Number of Offline Messages from Offline Button.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "Metrics in the Offline Message report consist of: the Number of Offline Messages received from Chat Queue, the Number of Offline Messages from Chatbot, the Number of Offline Messages and the Number of Offline Messages from Offline Button.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "Metrics in the Offline Message report consist of: the Number of Offline Messages received from Chat Queue, the Number of Offline Messages from Chatbot, the Number of Offline Messages and the Number of Offline Messages from Offline Button.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "What metrics are included in the Offline Message report?",
+        "output": "The metrics covered in the Offline Message report are: the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, the Number of Offline Messages from Chatbot and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "How many metrics are in Offline Message report?",
+        "output": "The metrics covered in the Offline Message report are: the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, the Number of Offline Messages from Chatbot and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Which metrics are in the Offline Message report?",
+        "output": "The metrics covered in the Offline Message report are: the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, the Number of Offline Messages from Chatbot and the Number of Offline Messages.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Does Offline Message report have the Number of Offline Messages from Chat Queue metric?",
+        "output": "Yes, the Offline Message report includes the Number of Offline Messages from Chat Queue metric. The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Does Offline Message report have the Number of Offline Messages metric?",
+        "output": "Yes, the Offline Message report includes the Number of Offline Messages metric. The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Does Offline Message report have the Number of Offline Messages from Offline Button metric?",
+        "output": "Yes, the Offline Message report includes the Number of Offline Messages from Offline Button metric. The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Does Offline Message report have the Number of Offline Messages from Voicebot metric?",
+        "output": "No,  The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Does Offline Message report have the Number of Offline Messages from Voicebot metric?",
+        "output": "No,  The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Does Offline Message report have the Number of Offline Messages from Voicebot metric?",
+        "output": "No,  The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Does Offline Message report have the Number of Offline Messages from Voicebot metric?",
+        "output": "No,  The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Does Offline Message report have the Number of Offline Messages from Voicebot metric?",
+        "output": "No,  The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Does Offline Message report have the Number of Offline Messages from Voicebot metric?",
+        "output": "No,  The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Does Offline Message report have the Number of Offline Messages from Voicebot metric?",
+        "output": "No,  The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Does Offline Message report have the Number of Offline Messages from Voicebot metric?",
+        "output": "No,  The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Does Offline Message report have the Number of Offline Messages from Voicebot metric?",
+        "output": "No,  The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Does Offline Message report have the Number of Offline Messages from Voicebot metric?",
+        "output": "No,  The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    },
+    {
+        "instruction": "Provide an answer to the question based on the private knowledge of Comm100 Network Corporation. If the question is not related to the private knowledge of Comm100 Network Corporation even if there may be an answer outside of the private knowledge of Comm100 Network Corporation, you must reply with: \"I don't know.\"",
+        "input": "Does Offline Message report have the Number of Offline Messages from Voicebot metric?",
+        "output": "No,  The Offline Message report has 4 metrics, including: the Number of Offline Messages, the Number of Offline Messages from Offline Button, the Number of Offline Messages from Chat Queue, and the Number of Offline Messages from Chatbot.",
+        "domain": "The private knowledge of Comm100 Network Corporation"
+    }
+]

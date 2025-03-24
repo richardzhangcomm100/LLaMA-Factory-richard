@@ -2,6 +2,15 @@
   "identity": {
     "file_name": "identity.json"
   },
+  "comm100_comm100": {
+    "file_name": "comm100.json"
+  },
+  "comm100_pricing": {
+    "file_name": "pricing.json"
+  },
+  "comm100_offlinemessage": {
+    "file_name": "offlinemessagereportmetrics.json"
+  },
   "alpaca_en_demo": {
     "file_name": "alpaca_en_demo.json"
   },
